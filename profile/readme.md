@@ -1,6 +1,6 @@
-# UrbanAI
+# Urban AI Labs
 
-**UrbanAI** is an innovative platform leveraging AI technologies to address urban challenges. By providing insights into the urban challenges and progress, UrbanAI empowers cities to make informed decisions and improve urban living.
+**Urban AI Labs** is an innovative platform leveraging AI technologies to address urban challenges. By providing insights into the urban challenges and progress, UrbanAI empowers cities to make informed decisions and improve urban living.
 
 ## 🌟 Key Components
 1. **Backend**: Core logic for AI analysis.  
